@@ -4,6 +4,14 @@ sidebar_position: 6
 
 # Change Log
 
+## 1.12.3 (2024-12-13)
+
+- Added: **AI Context-Aware Translation** can improve the accuracy of professional content translation. (Available only to Pro members) **Options** -> **Grneral** -> **Enable AI Context-Aware Translation**
+- Fix: Some bugs in the multi-line translation effect on Twitter.
+- Fix: Issues with the translation of certain formulas due to rich text
+- Improved: When translating on **x.com**, videos with subtitles will automatically have bilingual subtitles translated.
+- Improved: Videos without subtitles will display a translation icon and provide a reason why translation is not possible.
+
 ## 1.11.7 (2024-11-25)
 
 - Added: Bing/Google now supports Khmer (Cambodian).
